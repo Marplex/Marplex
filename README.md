@@ -7,8 +7,7 @@
 I build stuff. Interested in adding value to the world. I love being efficient.
 
 ## Something about me
-- Co-Founder of [Ulisse](https://ulisseai.com), ex Electrolux
-- Developed a lucid dreaming AI assistant [dreambox.one](https://www.dreambox.one)
+- My lucid dreaming AI assistant [dreambox.one](https://www.dreambox.one)
 - .NET WPF Contributor
 - 🏆 Won many web3 hackathons, such as [Polygon - Best NFT Dapp](https://showcase.ethglobal.com/roadtoweb3/nft-map-mint-nfts-of-pictures-on-a-map)
 - ⚡ Developed some useful libraries like [LiveData](https://github.com/Marplex/LiveData), [AdaptiveGrid](https://github.com/Marplex/AdaptiveGrid), [hono-azurefunc-adapter](https://github.com/Marplex/hono-azurefunc-adapter) and many others
